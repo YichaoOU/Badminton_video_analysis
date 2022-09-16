@@ -20,3 +20,6 @@ see `Li_liang_M1_A_7_3.mp4`.
 
 https://user-images.githubusercontent.com/19987406/190800720-aafe45e0-d5ec-43c0-8b24-5042bc9ada04.mp4
 
+5. check some hitting patterns
+
+![download (45)](https://user-images.githubusercontent.com/19987406/190810721-bcef9379-8823-4200-884c-b5d61a947bc1.png)
